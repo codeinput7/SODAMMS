@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: #89aa97;
+    background-color: #e5f1e3;
     overflow-x: hidden;
 }
 
 .navbar{
-    background-color: #07689f;
+    background-color: #35635b;
 }
 
 .nav-text-div{
@@ -35,7 +35,7 @@ a:hover{
 .contact{
     border: 2px solid black;
     text-align: left;
-    background-color: #f4e3b7;
+    /* background-color: #a3cd9e; */
 }
 
 #contact-head{
@@ -48,7 +48,7 @@ a:hover{
 }
 
 footer{
-    background-color: #fd7e89;
+    background-color: #529471;
 }
 .foot-class{
     margin: auto;
@@ -56,7 +56,7 @@ footer{
 }
 
 .jombo{
-    background-color: #f4e3b7;
+    background-color: #a3cd9e;
     width: 100%;
 }
 
@@ -68,15 +68,15 @@ h2, h3{
     color: #07689f;
 }
 
-input[type=text], input[type=email], input[type=number], #message{
-    background-color: #fff798;
-}
+/* input[type=text], input[type=email], input[type=number], #message{
+    background-color: #a3cd9e;
+} */
 
 .address{
-    background-color: #f4e3b7;
+    /* background-color: #a3cd9e; */
     padding-bottom: 3%;
 }
 
 .card-body{
-    background-color: #f4e3b7; 
+    background-color: #e5f1e3; 
 }
