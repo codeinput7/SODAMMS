@@ -80,3 +80,10 @@ h2, h3{
 .card-body{
     background-color: #e5f1e3; 
 }
+
+@media screen and (max-width: 823px) {
+   .logo{
+    margin: auto;
+    width: 50%;
+   }
+  }
