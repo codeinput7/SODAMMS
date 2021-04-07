@@ -4,8 +4,12 @@
 }
 
 body{
-    background-color: white;
+    background-color: #89aa97;
     overflow-x: hidden;
+}
+
+.navbar{
+    background-color: #07689f;
 }
 
 .nav-text-div{
@@ -31,6 +35,7 @@ a:hover{
 .contact{
     border: 2px solid black;
     text-align: left;
+    background-color: #f4e3b7;
 }
 
 #contact-head{
@@ -43,9 +48,35 @@ a:hover{
 }
 
 footer{
-    background-color: palevioletred;
+    background-color: #fd7e89;
 }
 .foot-class{
     margin: auto;
     text-align: center;
+}
+
+.jombo{
+    background-color: #f4e3b7;
+    width: 100%;
+}
+
+.card-deck{
+    margin-bottom: 3%;
+}
+
+h2, h3{
+    color: #07689f;
+}
+
+input[type=text], input[type=email], input[type=number], #message{
+    background-color: #fff798;
+}
+
+.address{
+    background-color: #f4e3b7;
+    padding-bottom: 3%;
+}
+
+.card-body{
+    background-color: #f4e3b7; 
 }
