@@ -88,9 +88,13 @@ h1{
     font-family: "Orelega One", Arial, Helvetica, sans-serif;
 }
 
+.logo{
+    background-color: #163a46;
+}
+
 @media screen and (max-width: 823px) {
-   .logo{
-    margin: auto;
+   .logo img{
+    margin-left: 25%;
     width: 57%;
    }
   }
